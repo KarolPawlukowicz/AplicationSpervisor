@@ -1,6 +1,6 @@
 # AplicationsSpervisor
 
-This is an application which checks wheather or not supervised application is working properly and wheather or not we have access to remote disc. It works in tray.
+This is an application which checks wheather or not supervised application is working properly and wheather or not we have access to remote disc. If supervised application isnt working or we dont have access to remote disc we will receive SMS with informations. It works in tray.
 
 
 
