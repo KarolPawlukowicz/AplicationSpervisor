@@ -2,6 +2,7 @@
 
 This is an application which checks wheather or not supervised application is working properly and wheather or not we have access to remote disc. It works in tray.
 
+
 # Getting started
 
 In order to be able to use this code you need to first import few libraries (to work with database). I used codeblock and did it this way: setting -> compiler -> linker settings -> and you need to choose:
