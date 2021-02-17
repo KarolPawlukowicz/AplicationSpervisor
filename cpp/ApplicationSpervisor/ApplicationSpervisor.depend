@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1610396641 source:c:\users\lenovo\desktop\aplicationspervisor\cpp\applicationspervisor\icon.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1514369068 c:\users\lenovo\desktop\aplicationspervisor\cpp\applicationspervisor\resource.h
+
+1610398997 source:c:\users\lenovo\desktop\aplicationspervisor\cpp\applicationspervisor\main.cpp
+	<windows.h>
+	<process.h>
+	<iostream>
+	<sqlext.h>
+	<sqltypes.h>
+	<sql.h>
+	<sstream>
+	<string>
+	<ctime>
+	<time.h>
+	<fstream>
+	<iomanip>
+	<cstdlib>
+	<vector>
+	"resource.h"
+
