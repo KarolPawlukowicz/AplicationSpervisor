@@ -3,6 +3,7 @@
 This is an application which checks wheather or not supervised application is working properly and wheather or not we have access to remote disc. It works in tray.
 
 
+
 # Getting started
 
 In order to be able to use this code you need to first import few libraries (to work with database). I used codeblock and did it this way: setting -> compiler -> linker settings -> and you need to choose:
@@ -22,3 +23,6 @@ To check if we have access to remote disc we use function â€žGetFileAttributesAâ
 # Usage
 
 If you want to use this application you need to have ApplicationSpervisorGUI.exe and ApplicationSpervisor.exe in the same folder. Run ApplicationSpervisorGUI.exe and press start button then ApplicationSpervisor.exe should run in tray.
+
+<img width="323" alt="GUI" src="https://user-images.githubusercontent.com/60007028/108282081-465aae80-7181-11eb-9097-c7458565847f.png">
+
